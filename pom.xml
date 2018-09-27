@@ -1,12 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<project xmlns="http://maven.apache.org/POM/4.0.0"
-         xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-         xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>com.dynamicprogrammingsolutions</groupId>
     <artifactId>dps.logging</artifactId>
-    <version>1.0.1-SNAPSHOT</version>
+    <version>1.0.1</version>
     <packaging>jar</packaging>
     <name>DPS Logging</name>
     <description>Provides simple logging for webapplications</description>
@@ -168,7 +166,7 @@
         <connection>scm:git:git://github.com/dynamicprogrammingsolutions/dps_authentication_manager.git</connection>
         <developerConnection>scm:git:ferenci84@github.com:dynamicprogrammingsolutions/dps_authentication_manager.git</developerConnection>
         <url>https://github.com/dynamicprogrammingsolutions/dps_authentication_manager</url>
-        <tag>HEAD</tag>
+        <tag>dps.logging-1.0.1</tag>
     </scm>
 
 
